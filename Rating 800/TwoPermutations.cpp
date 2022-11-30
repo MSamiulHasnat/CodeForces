@@ -1,4 +1,6 @@
 // Problem link - https://codeforces.com/problemset/problem/1761/A
+//Not Solved Yet
+
 
 #include <iostream>
 #include <stdio.h>
